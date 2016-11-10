@@ -1,2 +1,3 @@
 # MyRep
-Testing Github
+Testing Github 
+Testing Functionalities
